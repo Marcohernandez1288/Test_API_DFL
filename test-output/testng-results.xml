@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-08T22:38:44 CLT" name="Default suite" finished-at="2022-05-08T22:38:46 CLT" duration-ms="2447">
+  <suite started-at="2022-05-09T14:55:01 CLT" name="Default suite" finished-at="2022-05-09T14:55:03 CLT" duration-ms="2388">
     <groups>
     </groups>
-    <test started-at="2022-05-08T22:38:44 CLT" name="Default test" finished-at="2022-05-08T22:38:46 CLT" duration-ms="2447">
-      <class name="TestPatchEditUser">
-        <test-method signature="test_Patch01()[pri:0, instance:TestPatchEditUser@3e2e18f2]" started-at="2022-05-08T22:38:44 CLT" name="test_Patch01" finished-at="2022-05-08T22:38:46 CLT" duration-ms="2413" status="PASS">
+    <test started-at="2022-05-09T14:55:01 CLT" name="Default test" finished-at="2022-05-09T14:55:03 CLT" duration-ms="2388">
+      <class name="Test.TestPatchEditUser">
+        <test-method signature="test_Patch01()[pri:0, instance:Test.TestPatchEditUser@3c130745]" started-at="2022-05-09T14:55:01 CLT" name="test_Patch01" finished-at="2022-05-09T14:55:03 CLT" duration-ms="2356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Patch01 -->
-      </class> <!-- TestPatchEditUser -->
+      </class> <!-- Test.TestPatchEditUser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
